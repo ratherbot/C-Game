@@ -1,2 +1,2 @@
 # C-Game
-Game on WinForms
+Игра в папке Metallolom
