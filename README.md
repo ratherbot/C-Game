@@ -1,2 +1,2 @@
 # C-Game
-Игра в папке Metallolom
+Игра в папке Game
